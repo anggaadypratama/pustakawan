@@ -1,0 +1,13 @@
+{
+	"description" : "The CodeIgniter framework",
+	"name" : "codeigniter/framework",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4",
+		"phpoffice/phpword": "^1.0",
+		"dompdf/dompdf": "^2.0"
+	},
+	"require-dev": {
+		"mikey179/vfsstream": "1.1.*"
+	}
+}

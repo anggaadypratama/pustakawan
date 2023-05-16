@@ -1,0 +1,69 @@
+body {
+  background: url(../wall.png);
+  position: relative;
+}
+
+table, .panel {
+  background: rgba(255,255,255,0.85);
+}
+
+.site-logo img {
+  margin: 0 auto;
+}
+
+.navbar-default {
+  background-color: #87b149;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #000;
+}
+
+.navbar-default .navbar-brand {
+  color: #333;
+}
+
+.doc {
+  clear: both;
+  font-size: 1.2em;
+}
+
+.doc-field {
+  display: inline-block;
+}
+
+.doc-title {
+  font-size: 1.3em;
+}
+
+.form-control-half {
+  width: 50%;
+}
+
+.panel-title {
+  font-size: 1.5em;
+}
+
+.small-width {
+  width: 5%;
+}
+
+.pad-left10 {
+  padding-left: 10px;
+}
+
+.pathfinder-image {
+  width: 150px;
+  max-width: 150px;
+  float: right;
+}
+
+.pathfinder-image-detail {
+  width: 150px;
+  max-width: 150px;
+  margin: 0 auto;  
+}
+
+#sidebar-nav .nav > li > a {
+  padding: 5px;
+}
